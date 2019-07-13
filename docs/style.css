@@ -1,14 +1,14 @@
 body {
 	font-family: Helvetica, Arial, sans-serif;
-	padding: 11px;
+	padding: 0px;
 	color: black;}
   
 h1, h2 {
-	padding: 12px;
+	padding: 0px;
 	line-height: 2em;}
 
 p {
-	padding: 12px;
+	padding: 0px;
 	line-height: 1em;}
 
 a, a:hover{
@@ -18,7 +18,7 @@ a, a:hover{
 .header {
   overflow: hidden;
   background-color: #ffffff;
-  padding: 12px;}
+  padding: 0px;}
 
 /* Style the header links */
 .header a {
@@ -26,7 +26,7 @@ a, a:hover{
   color: black;
   background-color: #f1f1f1;
   text-align: center;
-  padding: 12px;
+  padding: 0px;
   text-decoration: none;
   font-size: 18px; 
   line-height: 25px;
