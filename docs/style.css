@@ -10,8 +10,5 @@ body {
 	padding: 6px;
 	line-height: 1em;}
 
-	i, a, a:hover{
+	a, a:hover{
 	color: blue;}
-
-	a:visited {
-	color: #665544;}
