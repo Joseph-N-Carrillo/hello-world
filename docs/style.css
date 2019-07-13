@@ -12,7 +12,7 @@ h1, h2 {
 	line-height: 2em;}
 
 p {
-	padding: 0px;
+	padding: 1em;
 	line-height: 1em;}
 
 a, a:hover{
@@ -22,7 +22,7 @@ a, a:hover{
 .header {
   overflow: hidden;
   background-color: #ffffff;
-  padding: 0px;}
+  padding: 2em;}
 
 /* Style the header links */
 .header a {
@@ -30,7 +30,7 @@ a, a:hover{
   color: black;
   background-color: #f1f1f1;
   text-align: center;
-  padding: 0px;
+  padding: 2em;
   text-decoration: none;
   font-size: 18px; 
   line-height: 25px;
