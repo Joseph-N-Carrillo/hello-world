@@ -11,5 +11,8 @@ body {
 	padding: 6px;
 	line-height: 1em;}
 
+	a {
+	color: blue; }
+
 i, a, a:hover, a:visited {
 				color: #665544;}
