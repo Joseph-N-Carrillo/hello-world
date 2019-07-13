@@ -10,8 +10,8 @@ body {
 	padding: 6px;
 	line-height: 1em;}
 
-	a {
+	i, a, a:hover{
 	color: blue;}
 
-i, a, a:hover, a:visited {
-				color: #665544;}
+	a:visited {
+	color: #665544;}
