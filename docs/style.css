@@ -18,7 +18,9 @@ a, a:hover{
 .header {
   overflow: hidden;
   background-color: #ffffff;
-  padding: none;}
+  padding: none;
+  margin: none;
+  border: none;}
 
 /* Style the header links */
 .header a {
