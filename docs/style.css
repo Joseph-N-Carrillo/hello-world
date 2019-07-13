@@ -3,9 +3,13 @@ body {
 	color: #665544;
 	padding: 22px;}
   
-	h1, h2, p {
+	h1, h2 {
 	padding: 12px;
 	line-height: 2em;}
+
+	p {
+	padding: 6px;
+	line-height: 1em;}
 
 i, a, a:hover, a:visited {
 				color: #665544;}
