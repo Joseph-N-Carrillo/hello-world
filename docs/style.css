@@ -6,12 +6,10 @@ body {
 	color: black;}
   
 h1, h2, h3, h4, h5, h6 {
-	padding: 1em;
-	line-height: 1em;}
+	padding: 0.5em;}
 
 p {
-	padding: 2em;
-	line-height: 0.5em;}
+	padding: 2em}
 
 a, a:hover{
 	color: blue;}
