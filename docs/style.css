@@ -36,11 +36,6 @@ a, a:hover{
   line-height: 25px;
   border-radius: none;}
 
-/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
-.header a.logo {
-  font-size: 25px;
-  font-weight: bold;}
-
 /* Change the background color on mouse-over */
 .header a:hover {
   background-color: #ddd;
